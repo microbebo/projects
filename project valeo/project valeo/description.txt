@@ -1,0 +1,7 @@
+Names: 
+Bassem Rushdy  
+Ahmed Hesham     
+Mohammed Mahmoud El Nahas
+things we have done: color change when we press the first button the second button make the color blue light from 0-100%
+things we haven't done: changing from stage to stage and color must be at a certain power and making stages
+   
